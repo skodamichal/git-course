@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Tim Buchalka 1
-=======
-Tim Buchalka 4
->>>>>>> 6c38a3b9f0c9efdfab1417025bf682d97e85ba5b
-testing merge
+master
